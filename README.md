@@ -12,5 +12,4 @@ Stack used - Front-end: HTML, CSS, Bootstrap & JavaScript Back-end: PHP & Databa
 time and date .It is a table showing the Sender's Name, Receiver's Name, Amount Transferred and Date and Time of Transfer.
 ## Flow of the Website:
 Home Page > View all Users > Select and 
-View one User > Transfer Money > Select receiver > View all Users 
-> View Transfer History.
+View one User > Transfer Money > Select receiver > View all Users > View Transfer History.
